@@ -37,4 +37,4 @@ related and therefore matches our "motor" input. You can use the `similarity` va
 the extracted topics are to the search term. 
  
 !!! note
-    You can only use this method if an embedding model was supplied to BERTopic using `embedding_model`. 
+    You can only use this method if an embedding model was not supplied to BERTopic using `embedding_model`. 
